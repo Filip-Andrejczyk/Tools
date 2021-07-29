@@ -4,7 +4,8 @@
   "description": "test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/Filip-Andrejczyk/Tools#readme",
   "devDependencies": {
-    "webpack": "^5.47.0"
+    "webpack": "^5.47.0",
+    "webpack-cli": "^4.7.2"
   }
 }
