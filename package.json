@@ -1,0 +1,22 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filip-Andrejczyk/Tools.git"
+  },
+  "author": "Filipek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Filip-Andrejczyk/Tools/issues"
+  },
+  "homepage": "https://github.com/Filip-Andrejczyk/Tools#readme",
+  "devDependencies": {
+    "webpack": "^5.47.0"
+  }
+}
